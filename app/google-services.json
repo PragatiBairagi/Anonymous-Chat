@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729570000736",
+    "project_id": "cheatchat-ba789",
+    "storage_bucket": "cheatchat-ba789.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729570000736:android:bb54fe659ce6494f052805",
+        "android_client_info": {
+          "package_name": "com.example.cheatchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdWOiW6Za_WE-dzcBBRsBV4fHKX3zw6yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
